@@ -1,4 +1,4 @@
-![logo](githubBanner.png)
+![logo](Banner Page For Linkend.png)
 <h1 align="center">Hi 👋, I'm Prajwal Pokhrel</h1>
 <h3 align="center">A passionate frontend and backend developer from Nepal.</h3>
 
