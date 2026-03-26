@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **basic concept related with html,css,js,php,c,c++,c#,java,python,etc..**
 
-- 📫 How to reach me **prajwal01532@gmail.com**
+- 📫 How to reach me **prazzol01532@gmail.com**
 
 - 📄 Know about my experiences [https://prajwalpokhrel1.com.np/](https://prajwalpokhrel1.com.np/)
 
