@@ -1,46 +1,35 @@
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
+<h2 align="center">🚀 Tech Stack</h2>
 
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<!-- Express -->
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<!-- Node.js -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-</a>
-
+<p align="center">
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Creative Tools:</h3>
-<p align="left">
+<h2 align="center">🎨 Creative Tools</h2>
 
-<!-- Canva -->
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="45" height="45"/>
-</a>
-
-<!-- Premiere Pro -->
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/adobe_premierepro/adobe_premierepro-icon.svg" width="45" height="45"/>
-</a>
-
-<!-- After Effects -->
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" width="45" height="45"/>
-</a>
-
+<p align="center">
+  <a href="https://www.canva.com/">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html">
+    <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html">
+    <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  </a>
+  <a href="https://www.canva.com/">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  </a>
 </p>
